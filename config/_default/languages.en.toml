@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Rabinovich"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2 2006"
+
+[author]
+name = "Rabinovich"
+headline = "Deeply Grounded in Reality"
+links = [
+  { twitter = "https://twitter.com/username" }
+]
