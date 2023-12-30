@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Rabinovich</title>
-    <link>/series/</link>
+    <link>/zh-cn/series/</link>
     <description>Recent content in Series on Rabinovich</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
     <copyright>© 2023 Rabinovich</copyright>
-    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
